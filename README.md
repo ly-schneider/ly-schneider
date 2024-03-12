@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ly-schneider&label=Profile%20views&color=0e75b6&style=flat" alt="ly-schneider" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ly-schneider" alt="ly-schneider" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ly-schneider&theme=onedark" alt="ly-schneider" /></a> </p>
 
 - 👨‍💻 Portfolio [https://www.lyschneider.ch/](https://www.lyschneider.ch/)
 
