@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ly-schneider&theme=onedark" alt="ly-schneider" /></a> </p>
 
-- 👨‍💻 Portfolio [https://www.lyschneider.ch/](https://www.lyschneider.ch/)
+- 👨‍💻 Website [https://www.leys.ch/](https://www.leys.ch/)
 
-- 📫 How to reach me **levyn@lyschneider.ch**
+- 📫 How to reach me **levyn.schneider@leys.ch**
 
 <p align="left">
 </p>
