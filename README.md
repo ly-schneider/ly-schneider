@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋</h1>
-<h3 align="center">My name is Levyn, <br /> a 15yo young developer, photo- and videographer which likes to program and create stuff</h3>
+<h3 align="center">My name is Levyn, <br /> a 16yo young developer, photo- and videographer which likes to program and create stuff</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ly-schneider&label=Profile%20views&color=0e75b6&style=flat" alt="ly-schneider" /> </p>
 
