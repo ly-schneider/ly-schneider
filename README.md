@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Apprentice at SwissPost, gaining hands-on experience in full-stack web applications, event streaming services, and DevOps.<br>⚡ Passionate about building dynamic, user-friendly websites and applications.<br>🎂 Started my coding journey at age 10 with JavaScript.<br>🎻 Played violin for 9 years.
+🔭 Apprentice at SwissPost, gaining hands-on experience in full-stack web applications, event streaming services, and DevOps.<br>⚡ Passionate about building dynamic, user-friendly websites and applications.<br>🎂 Started my coding journey at age 10 with JavaScript.<br>🎻 Played violin for 9 years.<br>📷 Photographer & Filmmaker<br>📍 Based in Bern
 
 
 ## 🌐 Socials:
