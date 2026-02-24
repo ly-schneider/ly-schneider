@@ -1,16 +1,22 @@
-# 17. Löse Probleme, die andere noch nicht mal sehen.
+# Mein erstes Projekt war furchtbar. Aber es lief.
 
-Mit 11 meinen ersten Preisrechner für Ferienwohnungen. Mit 16 Systeme in Produktion. Mit 17 ein komplettes Food-Ordering-System von Grund auf.
+Das war mit 11. Seitdem habe ich nicht aufgehört. Mit 16 erste Systeme in echter 
+Umgebung. Mit 17 dann das bisher grösste: Ein komplettes Food-Ordering-System von 
+Grund auf. Custom POS, Mobile Ordering mit Online-Zahlung, Hardware-Konzept im engen 
+Budget. Konzipiert, beraten, entwickelt.
 
-Was micht antreibt? Die Frage: «Warum gibt es das noch nicht?»
+Was mich antreibt? Die Frage: «Warum gibt es das noch nicht?»
 
 ---
 
 ### Was ich mache
 
-**Produkte & Systeme** — High-Performance APIs, skalierbare Backends, Cloud-Infrastruktur mit Terraform und Kubernetes.
+**Produkte & Systeme** — High-Performance APIs in Go, skalierbare Backends, 
+Cloud-Infrastruktur mit Terraform und Kubernetes. Architekturen, die in zwei 
+Jahren noch Sinn ergeben.
 
-**Live-Produktion** — Events mit 2'000 Leuten. Lichtdesign, das Momente schafft. Kreativität, die ohne Technik nicht funktioniert. GrandMA3.
+**Live-Produktion** — Events mit 2'000 Leuten. Lichtdesign, das Momente schafft. 
+Kreativität, die ohne Technik nicht funktioniert. GrandMA3.
 
 **Aktuell** — Lehre bei der Schweizerischen Post. Full-Stack, Event Streaming, DevOps.
 
