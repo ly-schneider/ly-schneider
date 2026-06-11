@@ -1,22 +1,22 @@
-# Mein erstes Projekt war furchtbar. Aber es lief.
+# My first project was terrible. But it shipped.
 
-Das war mit elf, und seitdem habe ich nicht mehr aufgehört. Mit 16 liefen die ersten Systeme in Produktion. Mit 17 kam das bislang grösste Projekt: ein komplettes Food-Ordering-System mit eigenem POS, Mobile Ordering inklusive Online-Zahlung und einem Hardware-Konzept, das in ein knappes Budget passen musste. Konzept, Beratung und Umsetzung lagen bei mir.
-
----
-
-### Aktuell
-
-🏆 **Rang 1 Cloud Computing — ICT-Regionalmeisterschaften Schweiz 2026.** 120/120 Punkte und damit qualifiziert für die Schweizermeisterschaften ICTskills2027. [Rangliste](https://www.ict-berufsbildung.ch/resources/Regionalmeisterschaft-2026-Rangliste.pdf)
+I was eleven, and I haven't stopped since. By 16, my first systems were running in production. At 17 came the biggest one so far: a complete food-ordering system with a custom POS, mobile ordering including online payment, and a hardware concept that had to fit a tight budget. I handled the concept, the consulting, and the build.
 
 ---
 
-### Was ich mache
+### Now
 
-**Produkte & Systeme.** Ich entwickle APIs in Go, skalierbare Anwendungen und Cloud-Infrastruktur mit Terraform und Kubernetes. Der Fokus liegt auf Architekturen, die auch nach längerer Laufzeit wartbar bleiben.
+🏆 **Rank 1, Cloud Computing — Swiss ICT Regional Championships 2026.** 120/120 points, qualified for the national finals ICTskills2027. [Results](https://www.ict-berufsbildung.ch/resources/Regionalmeisterschaft-2026-Rangliste.pdf)
 
-**Live-Produktion.** Ich gestalte Licht für Events mit bis zu 2'000 Personen, programmiert und operated auf GrandMA3. Technik und Gestaltung gehören für mich zum selben Handwerk.
+---
 
-**Alltag.** Lehre als DevOps Software Engineer bei der Schweizerischen Post, mit Schwerpunkt Full-Stack, Event Streaming und DevOps.
+### What I do
+
+**Products & Systems.** I build APIs in Go, scalable applications, and cloud infrastructure with Terraform and Kubernetes. The focus is on architectures that stay maintainable well beyond the first few months.
+
+**Live Production.** I design lighting for events of up to 2,000 people, programmed and operated on GrandMA3. For me, technology and design are part of the same craft.
+
+**Day-to-day.** Apprenticeship as a DevOps Software Engineer at Swiss Post, focused on full-stack, event streaming, and DevOps.
 
 ---
 
@@ -32,9 +32,9 @@ Das war mit elf, und seitdem habe ich nicht mehr aufgehört. Mit 16 liefen die e
 
 ---
 
-### Reden wir
+### Let's talk
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/levyn-schneider-b167382b5)
 [![Website](https://img.shields.io/badge/leys.ch-000000?style=flat&logo=About.me&logoColor=white)](https://leys.ch)
 
-📍 Schweiz — [lets-talk@leys.ch](mailto:lets-talk@leys.ch)
+📍 Switzerland — [lets-talk@leys.ch](mailto:lets-talk@leys.ch)
